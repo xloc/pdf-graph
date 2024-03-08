@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tato30/vue-pdf": "^1.9.5",
     "vue": "^3.4.19"
   },
   "devDependencies": {
